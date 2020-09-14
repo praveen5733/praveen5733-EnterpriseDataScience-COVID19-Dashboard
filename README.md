@@ -9,6 +9,13 @@
 - To use the population data for SIR modelling a new dataset file called population.csv is used. It is placed under data/processed/population.csv
 
 
+## Task 1 
+
+![Task1] (/reports/figures/Task1.jpg)
+
+## Task 2
+
+![Task2] (/reports/figures/Task2.jpg)
 
 
 
