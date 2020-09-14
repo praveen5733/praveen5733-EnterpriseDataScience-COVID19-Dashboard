@@ -11,11 +11,11 @@
 
 ## Task 1 
 
-![Task1] (/reports/figures/Task1.jpg)
+![Task1 Task1] (reports/figures/Task1.jpg)
 
 ## Task 2
 
-![Task2] (/reports/figures/Task2.jpg)
+![Task2 Task2] (reports/figures/Task2.jpg)
 
 
 
